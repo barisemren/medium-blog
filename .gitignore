@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-
+/mediumtutorial
 # next.js
 /.next/
 /out/
